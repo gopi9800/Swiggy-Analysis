@@ -46,6 +46,8 @@ Sales are analyzed across states to identify the major geographic contributors t
 
 * Power BI
 * DAX
+* Python
+* Postgresql
 
 ## Dashboard Filters
 
@@ -55,12 +57,6 @@ The dashboard provides interactive filters for:
 * Food Type
 * Quarter
 * Restaurant
-
-## Repository Contents
-
-* `Swiggy Analysis.pbix` — Power BI dashboard
-* `Swiggy Analysis.pdf` — Static dashboard preview
-* `README.md` — Project documentation
 
 ## Purpose
 
